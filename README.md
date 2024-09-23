@@ -1,1 +1,1 @@
-# y.cyuzuzo-daily-reports
+# This is a repository that contains my daily reports.
